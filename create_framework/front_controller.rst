@@ -229,3 +229,5 @@ variable.
 
     If you decide to stop here, you can probably enhance your framework by
     extracting the URL map to a configuration file.
+    
+:doc:`next chapter </create_framework/routing>`
