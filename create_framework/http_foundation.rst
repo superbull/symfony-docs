@@ -287,6 +287,8 @@ component is the start of better interoperability between all frameworks and
 `applications using it`_ (like `Symfony`_, `Drupal 8`_, `phpBB 3`_, `Laravel`_
 and `ezPublish 5`_,  and `more`_).
 
+:doc:`next chapter </create_framework/front_controller>`
+
 .. _`Twig`: https://twig.symfony.com/
 .. _`HTTP specification`: https://tools.ietf.org/wg/httpbis/
 .. _`audited`: https://symfony.com/blog/symfony2-security-audit
